@@ -141,13 +141,13 @@ use information_schema_
 
 
 
-### **Linux 为何物**
+#### **Linux 为何物**
 
-Linux 就是一个操作系统，就像你多少已经了解的 Windows（xp，7，8）和 Mac OS 。至于操作系统是什么，就不用过多解释了，如果你学习过前面的入门课程，应该会有个基本概念了，这里简单介绍一下操作系统在整个计算机系统中的角色。
+### Linux 就是一个操作系统，就像你多少已经了解的 Windows（xp，7，8）和 Mac OS 。至于操作系统是什么，就不用过多解释了，如果你学习过前面的入门课程，应该会有个基本概念了，这里简单介绍一下操作系统在整个计算机系统中的角色。
 
-![图1-1](https://doc.shiyanlou.com/linux_base/1-1.png)
+### ![图1-1](https://doc.shiyanlou.com/linux_base/1-1.png)
 
-我们的 Linux 主要是系统调用和内核那两层。当然直观地看，我们使用的操作系统还包含一些在其上运行的应用程序，比如文本编辑器、浏览器、电子邮件等。
+### 我们的 Linux 主要是系统调用和内核那两层。当然直观地看，我们使用的操作系统还包含一些在其上运行的应用程序，比如文本编辑器、浏览器、电子邮件等。
 
 
 ### 1. **安装WSL2：`wsl --install`（Win10/11）**
@@ -163,47 +163,48 @@ Linux 就是一个操作系统，就像你多少已经了解的 Windows（xp，7
 
 ---
 
-   ==**ls命令==**![[Pasted image 20250708224441.png]]
+   ==**ls命令==**![Pasted image 20250708224441.png](<Pasted image 20250708224441.png>)
   
 
 ---
 
    **ls 命令的 -a选项
-   **![[Pasted image 20250708225222.png]]
+   **![Pasted image 20250708225222.png](<Pasted image 20250708225222.png>)
    
 
 ---
 
-   **ls 命令的 -l选项**![[Pasted image 20250708225440.png]]
+   **ls 命令的 -l选项**![Pasted image 20250708225440.png](<Pasted image 20250708225440.png>)
    可以相互组合如：ls -la /
 
 ---
 
 **ls 命令的 -h选项
-**![[Pasted image 20250708225848.png]]
+**![Pasted image 20250708225848.png](<Pasted image 20250708225848.png>)
 
 ---
 
 ==**cd切换工作目录==
-**![[Pasted image 20250708230218.png]]
+**![Pasted image 20250708230218.png](<Pasted image 20250708230218.png>)
 
 ---
  ==** *pwd* 查看当前工作目录**==
-![[Pasted image 20250708230533.png]]
+![Pasted image 20250708230533.png](<Pasted image 20250708230533.png>)
 
 ---
 
 **相对路径与绝对路径**
 
-![[Pasted image 20250708231416.png]]
-![[Pasted image 20250708231323.png]]
+![Pasted image 20250708231416.png](<Pasted image 20250708231416.png>)
+![Pasted image 20250708231323.png](<Pasted image 20250708231323.png>)
 
 ---
 ==**mkdir命令**==
 
-![[Pasted image 20250708233433.png]]
+![Pasted image 20250708233433.png](<Pasted image 20250708233433.png>)
  
-  **mkdir-p选项**![[Pasted image 20250708234035.png]]
+  **mkdir-p选项**![Pasted image 20250708234035.png](<Pasted image 20250708234035.png>)
 
 ---
 
+![Snipaste_2025-06-07_14-15-26.png](Snipaste_2025-06-07_14-15-26.png)
